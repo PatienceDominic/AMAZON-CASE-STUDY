@@ -4,4 +4,7 @@ The Amazon case study  presents an exploratary data analysis and dashboards visu
  - Total Records : 1,466 
  - Fields 16
  - Source of Datasets DSA  Canvas LMS
- - 
+ - Contents of the datasets are
+     - Product details(Name, Category, Price, Discounts)
+     - User engagement metrics ( Review count, Ratings)
+     - Price variations and Revenue potential
