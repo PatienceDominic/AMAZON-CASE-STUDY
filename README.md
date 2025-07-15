@@ -30,7 +30,7 @@ The Amazon case study  presents an exploratary data analysis and dashboards visu
 This analysis was visualized using bar charts, line charts, donout, pie chart and column chart.
 
 
-### iNSIGHTS FROM THE PIVOT TABLES
+### INSIGHTS FROM THE PIVOT TABLES
 
 Based on the Average discount percentage by category
  - target high discount categories for promotions and inventory movement
