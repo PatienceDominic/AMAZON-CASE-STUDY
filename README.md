@@ -10,9 +10,9 @@ The Amazon case study  presents an exploratary data analysis and dashboards visu
      - Price variations and Revenue potential
   
   ### TOOL USED
-  MS Excel for data cleaning and loading
-  Pivot tables for data summarization
-  Excel dashboard for visualization.
+  - MS Excel for data cleaning and loading
+  - Pivot tables for data summarization
+  - Excel dashboard for visualization.
 
   ### EXPLORATORY DATA ANALYSIS
   This involves exploring the dataset to answer questions like
