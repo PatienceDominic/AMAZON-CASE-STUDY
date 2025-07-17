@@ -11,8 +11,8 @@ The Amazon case study  presents an exploratary data analysis and dashboards visu
   
   ### TOOL USED
   - MS Excel for data cleaning and loading
-  - Pivot tables for data summarization
-  - Excel dashboard for visualization.
+  - Excel Pivot tables for data summarization
+  - Excel Pivot charts for visualization.
 
   ### EXPLORATORY DATA ANALYSIS
   This involves exploring the dataset to answer questions like
@@ -33,7 +33,7 @@ This analysis was visualized using bar charts, line charts, donout, pie chart an
 ### INSIGHTS FROM THE PIVOT TABLES
 
 Based on the Average discount percentage by category
- - target high discount categories for promotions and inventory movement
+ - Target high discount categories for promotions and inventory movement
  - Top Discounted Category  - Electronic?wearable = 70.2% percntage discount followed by Electronic/earphones - 59.1%
 The overall average discount percentage  across all ctegories  is 56.47%
 Focus should be on advertising, clearance sales and promotional bundles on categories like wearable and headphones which have very high discount levels.
