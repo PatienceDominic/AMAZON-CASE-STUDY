@@ -42,4 +42,4 @@ Also aggressive price competition. Thses categories can be used in flash sales, 
 ### VISUALIZATION
 https://github.com/PatienceDominic/AMAZON-CASE-STUDY/blob/main/Amazon%20Raw%20Datasets.png
 https://github.com/PatienceDominic/AMAZON-CASE-STUDY/blob/main/Amazon%20Cleaned%20Dataset.png
-
+https://github.com/PatienceDominic/AMAZON-CASE-STUDY/blob/main/Amazon%20Pivot%20Tables.png
