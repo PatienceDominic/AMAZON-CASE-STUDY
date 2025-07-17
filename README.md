@@ -38,6 +38,7 @@ Based on the Average discount percentage by category
 The overall average discount percentage  across all ctegories  is 56.47%
 Focus should be on advertising, clearance sales and promotional bundles on categories like wearable and headphones which have very high discount levels.
 Also aggressive price competition. Thses categories can be used in flash sales, cross sell bundle with mobile device or laptops. Incentivized upsells e.g buy a phone, get 60% off on headphones.
+- The category "Electronics|Headphones" alone accounts for nearly 20% of the total reviews, This suggests a high customer engagement and interest in headphones. Hence there should be more focus on marketing efforts, promotions or product expansions in the headphones segment. Also consider analyzing the sentiment of these reviews to identify what features customers value most(e.g sound quality,battery life, comfort).
 
 ### VISUALIZATION
 https://github.com/PatienceDominic/AMAZON-CASE-STUDY/blob/main/Amazon%20Raw%20Datasets.png
