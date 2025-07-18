@@ -42,7 +42,7 @@ Also aggressive price competition. Thses categories can be used in flash sales, 
 - Electronics|Homtheat and Electronics|Mobiles have the highest actual prices but their discounts bring them significantly. This shows these higher-ticket items rely heavily on discounting to drive sales, Hence the discount strategy has to be reviewed but for lower priced categories like Electronics|Headphones and homeaudio consider if smaller discount might still be enough to attract buyers, seeing that the percentage discount is very steep.
 - Most products have ratings clustered between 4.0 and 4.3(with the highest count at 4.1, 4.2, and 4.3). Very few products ar rted as 4.4 or as low as 3.8-3.9.This suggest that while prodect ratings are generally good, very few products stands out as top-rated. Hence identify he products that already  have  the highest ratings(4.4), analyze what makes them stand out(e.g features, quality, price customer support).   
 
-### VISUALIZATION
+### VISUALS
 https://github.com/PatienceDominic/AMAZON-CASE-STUDY/blob/main/Amazon%20Raw%20Datasets.png
 https://github.com/PatienceDominic/AMAZON-CASE-STUDY/blob/main/Amazon%20Cleaned%20Dataset.png
 https://github.com/PatienceDominic/AMAZON-CASE-STUDY/blob/main/Amazon%20Pivot%20Tables.png
