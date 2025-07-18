@@ -1,5 +1,12 @@
 ### AMAZON-CASE-STUDY
-The Amazon case study  presents an exploratary data analysis and dashboards visualization of Amazon product listing, analyzing  product and customer review data to generate insights that can guide product improvement, marketing strategies and customer engagement.
+The Amazon case study  presents an exploratary data analysis and dashboards visualization of Amazon product listing, analyzing  product and customer review data to generate insights that can guide product improvement, marketing strategies and customer engagement. This is designed during my learning process at DSA Incubator
+
+### PROJECT CONTEXT
+Client Name: RetailTech Insights
+Industry: E-commerce Analytics
+Role: Junior Data Analyst
+Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formating, Slicers, Cards)
+
 ### DATASETS OVERVIEW
  - Total Records : 1,466 
  - Fields 16
@@ -8,11 +15,6 @@ The Amazon case study  presents an exploratary data analysis and dashboards visu
      - Product details(Name, Category, Price, Discounts)
      - User engagement metrics ( Review count, Ratings)
      - Price variations and Revenue potential
-  
-  ### TOOL USED
-  - MS Excel for data cleaning and loading
-  - Excel Pivot tables for data summarization
-  - Excel Pivot charts for visualization.
 
   ### EXPLORATORY DATA ANALYSIS
   This involves exploring the dataset to answer questions like
@@ -47,3 +49,5 @@ https://github.com/PatienceDominic/AMAZON-CASE-STUDY/blob/main/Amazon%20Raw%20Da
 https://github.com/PatienceDominic/AMAZON-CASE-STUDY/blob/main/Amazon%20Cleaned%20Dataset.png
 https://github.com/PatienceDominic/AMAZON-CASE-STUDY/blob/main/Amazon%20Pivot%20Tables.png
 https://github.com/PatienceDominic/AMAZON-CASE-STUDY/blob/main/Amazon%20Dashboard.png
+
+### TOOLS AND ENVIRONMENT
