@@ -51,3 +51,6 @@ https://github.com/PatienceDominic/AMAZON-CASE-STUDY/blob/main/Amazon%20Pivot%20
 https://github.com/PatienceDominic/AMAZON-CASE-STUDY/blob/main/Amazon%20Dashboard.png
 
 ### TOOLS AND ENVIRONMENT
+- Microsoft Excel for inspecting, transforming and loading of dataset
+- Power Querry
+- Pivot tables
